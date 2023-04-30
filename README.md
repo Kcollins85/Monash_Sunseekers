@@ -33,6 +33,4 @@ We used SQL to create the database, then power our website using a Python Flask 
      Finally you can see the homepage.  Click in the navigation bar to see the map and regional chart information.
 
 
-
-
-  
+An assignment for Monash University's Data Analytics Bootcamp (2023)
